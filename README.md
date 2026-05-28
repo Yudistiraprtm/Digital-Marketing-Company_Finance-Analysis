@@ -10,10 +10,10 @@ End-to-end **Finance Analyst** case study for a fictional Indonesian **software 
 
 Nusantara Digital Group operates four service lines across the Indonesian market:
 
-| Service Line | What it does |
-| Influencer Marketing | Creator/KOL campaign management |
-| Ads Management | Paid media buying & optimization |
-| E-commerce Enablement | Store setup, ops & marketplace growth |
+| Service Line | What it does
+| Influencer Marketing | Creator/KOL campaign management
+| Ads Management | Paid media buying & optimization
+| E-commerce Enablement | Store setup, ops & marketplace growth
 | SaaS Creator Platform | Subscription tools for creators |
 
 ---
@@ -41,14 +41,14 @@ Nusantara Digital Group operates four service lines across the Indonesian market
 
 ## 📈 Key Results (FY2025)
 
-| KPI | Value |
-| Total Revenue | IDR 59,187 mn |
-| Gross Profit | IDR 31,618 mn (53.4% margin) |
-| Net Profit | IDR 14,391 mn (24.3% margin) |
-| Operating Expense Ratio | 75.7% |
-| Revenue Growth (Jan→Dec) | +66.3% |
-| Blended ROAS | 4.18x |
-| Average CAC | IDR 3.80 mn |
+| KPI | Value
+| Total Revenue | IDR 59,187 mn
+| Gross Profit | IDR 31,618 mn (53.4% margin)
+| Net Profit | IDR 14,391 mn (24.3% margin)
+| Operating Expense Ratio | 75.7%
+| Revenue Growth (Jan→Dec) | +66.3%
+| Blended ROAS | 4.18x
+| Average CAC | IDR 3.80 mn
 | Budget Utilization | 75.6% |
 
 **Headline insight:** The **SaaS Creator Platform** has the highest gross margin (69.7%) and **Influencer Marketing** the highest net margin (30.8%), while **Ads Management** drives volume at the lowest margin. Operational cost (46.6% of revenue) is the #1 efficiency lever.
