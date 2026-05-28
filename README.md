@@ -1,3 +1,4 @@
+<img width="842" height="944" alt="Dashboard" src="https://github.com/user-attachments/assets/28393259-51a2-40a1-966f-79b3751a1376" />
 # 📊 Finance Analyst Portfolio Project — Nusantara Digital Group (Indonesia)
 
 End-to-end **Finance Analyst** case study for a fictional Indonesian **software & digital marketing company**. It covers profitability, cost, budgeting, and forecasting analysis built entirely in **Microsoft Excel**.
