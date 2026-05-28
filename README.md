@@ -1,6 +1,6 @@
 # 📊 Finance Analyst Portfolio Project — Nusantara Digital Group (Indonesia)
 
-End-to-end **Finance Analyst** case study for a fictional Indonesian **software & digital marketing company** (inspired by AnyMind Group). It covers profitability, cost, budgeting, and forecasting analysis built entirely in **Microsoft Excel** with **Power Query**, **PivotTables**, and an interactive **dashboard**.
+End-to-end **Finance Analyst** case study for a fictional Indonesian **software & digital marketing company**. It covers profitability, cost, budgeting, and forecasting analysis built entirely in **Microsoft Excel** with **Power Query**, **PivotTables**, and an interactive **dashboard**.
 
 > All figures are in **IDR millions**. Data is **simulated** for portfolio purposes; client names are illustrative only.
 
@@ -11,7 +11,6 @@ End-to-end **Finance Analyst** case study for a fictional Indonesian **software 
 Nusantara Digital Group operates four service lines across the Indonesian market:
 
 | Service Line | What it does |
-|---|---|
 | Influencer Marketing | Creator/KOL campaign management |
 | Ads Management | Paid media buying & optimization |
 | E-commerce Enablement | Store setup, ops & marketplace growth |
@@ -43,7 +42,6 @@ Nusantara Digital Group operates four service lines across the Indonesian market
 ## 📈 Key Results (FY2025)
 
 | KPI | Value |
-|---|---|
 | Total Revenue | IDR 59,187 mn |
 | Gross Profit | IDR 31,618 mn (53.4% margin) |
 | Net Profit | IDR 14,391 mn (24.3% margin) |
@@ -75,16 +73,11 @@ Nusantara Digital Group operates four service lines across the Indonesian market
 finance-analyst-portfolio/
 ├── data/
 │   └── finance_raw_data.csv          # 192 rows, 12 months, 4 services
-├── dashboard/
-│   └── Finance_Analyst_Dashboard.xlsx # KPIs, pivots, charts, forecast
+├── file/
+│   └── Finance_Analysis.xlsx         # KPIs, pivots, charts, forecast
 ├── reports/
-│   ├── Financial_Report.docx          # Full analysis + recommendations
-│   └── Executive_Summary.md           # One-page summary
-├── docs/
-│   ├── methodology.md
-│   └── linkedin_post.md
-├── images/
-│   └── dashboard_preview.png
+│   ├── Financial_Report.docx         # Full analysis + recommendations
+│   └── Executive_Summary.md          # One-page summary
 └── README.md
 ```
 
@@ -92,8 +85,8 @@ finance-analyst-portfolio/
 
 ## 🔍 Analysis Workflow
 
-1. **Ingest & clean** raw client-level data (Power Query logic).
-2. **Aggregate** to monthly and service-line summaries (SUMIF/AVERAGEIF = PivotTable equivalent).
+1. **Ingest & clean** raw client-level data.
+2. **Aggregate** to monthly and service-line summaries.
 3. **Calculate KPIs** — margins, growth, OpEx ratio, CAC, ROAS.
 4. **Variance** — Budget vs Actual with status flags.
 5. **Forecast** — 3 months via `TREND()` linear regression.
