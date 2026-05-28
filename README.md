@@ -102,10 +102,3 @@ finance-analyst-portfolio/
 - **Highest profitability:** SaaS (gross margin), Influencer Marketing (net margin).
 - **Marketing efficiency:** Shift spend toward highest-ROAS / lowest-CAC services; track at service level monthly.
 
----
-
-## 👤 About
-
-Built as an **intermediate-level portfolio project** for a **Junior Finance Analyst** role, demonstrating practical financial analysis, Excel modelling, and business storytelling.
-
-*Open the workbook in Excel for the live, formula-driven dashboard.*
