@@ -51,7 +51,7 @@ Nusantara Digital Group operates four service lines across the Indonesian market
 | Average CAC | IDR 3.80 mn
 | Budget Utilization | 75.6% |
 
-**Headline insight:** The **SaaS Creator Platform** has the highest gross margin (69.7%) and **Influencer Marketing** the highest net margin (30.8%), while **Ads Management** drives volume at the lowest margin. Operational cost (46.6% of revenue) is the #1 efficiency lever.
+The **SaaS Creator Platform** has the highest gross margin (69.7%) and **Influencer Marketing** the highest net margin (30.8%), while **Ads Management** drives volume at the lowest margin. Operational cost (46.6% of revenue) is the #1 efficiency lever.
 
 ---
 
