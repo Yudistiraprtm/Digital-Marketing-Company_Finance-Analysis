@@ -1,4 +1,5 @@
-<img width="842" height="944" alt="Dashboard" src="https://github.com/user-attachments/assets/28393259-51a2-40a1-966f-79b3751a1376" />
+<img width="838" height="951" alt="Dashboard" src="https://github.com/user-attachments/assets/6b1226fb-185b-43f4-8134-ff8f8724bedc" />
+
 
 # 📊 Finance Analyst Portfolio Project — Nusantara Digital Group (Indonesia)
 
